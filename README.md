@@ -25,8 +25,7 @@ Welcome to my GitHub! I am a DevOps Engineer passionate about building scalable,
 
 ### **Cloud Platforms**
 
-* AWS (VPC, EC2, S3, IAM, Load Balancers, CloudWatch, Lambda)
-* GCP (GKE basics)
+* AWS (VPC, EC2, S3, IAM, Load Balancers, CloudWatch, Lambda, EKS)
 
 ### **Containers & Orchestration**
 
@@ -52,36 +51,11 @@ Welcome to my GitHub! I am a DevOps Engineer passionate about building scalable,
 
 ## 📌 **Key Projects**
 
-### **1. AWS VPC Full Architecture Deployment**
-
-A hands-on project showcasing complete AWS networking understanding.
-
-* Custom VPC, public/private subnets
-* NAT Gateway, Internet Gateway
-* EC2, S3, IAM roles
-* ALB setup with autoscaling
-* Route tables & security layers
-  **Tech:** AWS, Networking, EC2, ALB, IAM
-
-### **2. CI/CD Pipeline with Jenkins & GitHub Actions**
+### **1. CI/CD Pipeline with Jenkins & GitHub Actions**
 
 * Automated build + test + deployment pipeline
-* Notifications integrated
 * Dockerized application deployed
-  **Tech:** Jenkins, GitHub Actions, Docker, Linux
-
-### **3. Kubernetes Deployment of a Web App**
-
-* Deployment + Service + Ingress setup
-* ConfigMaps & Secrets for configuration
-* Autoscaling (HPA)
-  **Tech:** Kubernetes, Docker
-
-### **4. Terraform-Based Infra Setup (Basic Project)**
-
-* Automated provisioning of EC2 + VPC components
-* Reusable .tf modules
-  **Tech:** Terraform, AWS
+  **Tech:** Jenkins, Docker, Linux
 
 ---
 
@@ -97,9 +71,8 @@ A hands-on project showcasing complete AWS networking understanding.
 
 ## 📚 **Certifications / Learning**
 
-* AWS Hands‑On Projects
+* AWS Solution Architect Associate (preparing)
 * Kubernetes training (ongoing practice)
-* DevOps toolchain (Jenkins, Docker, Terraform)
 
 ---
 
@@ -113,8 +86,8 @@ A hands-on project showcasing complete AWS networking understanding.
 
 ## 📫 **Let’s Connect**
 
-* **LinkedIn:** *Add your link*
-* **Email:** *Add your email*
+* **LinkedIn:** *https://www.linkedin.com/in/tripti-pandey-81110822a/*
+* **Email:** *triptip033@gmail.com*
 
 ---
 
