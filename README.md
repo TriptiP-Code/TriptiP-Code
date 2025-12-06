@@ -19,7 +19,7 @@ Welcome to my GitHub! I am a DevOps Engineer passionate about building scalable,
 
 ### **DevOps & CI/CD**
 
-* Jenkins* GitHub Actions* Azure DevOps
+* Jenkins, GitHub Actions, Azure DevOps
 
 ### **Cloud Platforms**
 
