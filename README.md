@@ -8,9 +8,9 @@ Welcome to my GitHub! I am a DevOps Engineer passionate about building scalable,
 
 ## 🚀 **About Me**
 
-* Experienced **DevOps Engineer** with hands-on work in CI/CD, Kubernetes, AWS, Linux, and monitoring.
+* Experienced **DevOps Engineer** (worked at VOIS) with hands-on work in CI/CD, Kubernetes, AWS, Linux, and monitoring.
 * Strong understanding of **infrastructure automation**, system reliability, and cloud networking.
-* Previously prepared for **UPSC**, which strengthened my discipline, analytical thinking, and resilience.
+* Previously prepared for **UPSC** (2024-2025), which strengthened my discipline, analytical thinking, and resilience.
 * Passionate about cloud engineering, system optimization, and continuous learning.
 
 ---
@@ -19,9 +19,7 @@ Welcome to my GitHub! I am a DevOps Engineer passionate about building scalable,
 
 ### **DevOps & CI/CD**
 
-* Jenkins
-* GitHub Actions
-* Azure DevOps
+* Jenkins* GitHub Actions* Azure DevOps
 
 ### **Cloud Platforms**
 
@@ -62,7 +60,7 @@ Welcome to my GitHub! I am a DevOps Engineer passionate about building scalable,
 ## 🏆 **Professional Highlights**
 
 * Built and maintained automated CI/CD pipelines in multiple environments.
-* Hands-on experience with **incident management & monitoring**.
+* Hands-on experience with **incident management (P1, P2, P3) & monitoring**.
 * Worked on **AWS infrastructure optimization** & troubleshooting.
 * Comfortable with scripting and Linux system operations.
 * Strong communication skills with a professional, detail-oriented approach.
