@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tripti Pandey
 
-DevOps Engineer | Cloud Enthusiast | Automation Lover | Problem Solver
+DevOps Engineer | Cloud Enthusiast | Automation | Problem Solver
 
 Welcome to my GitHub! I am a DevOps Engineer passionate about building scalable, automated, and cloud‑native solutions. I enjoy working on CI/CD pipelines, container orchestration, cloud infrastructure, and improving system reliability.
 
