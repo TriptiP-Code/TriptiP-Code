@@ -10,7 +10,7 @@ Welcome to my GitHub! I am a DevOps Engineer passionate about building scalable,
 
 * Experienced **DevOps Engineer** (worked at VOIS) with hands-on work in CI/CD, Kubernetes, AWS, Linux, and monitoring.
 * Strong understanding of **infrastructure automation**, system reliability, and cloud networking.
-* Previously prepared for **UPSC** (2024-2025), which strengthened my discipline, analytical thinking, and resilience.
+* Previously prepared for **UPSC** (2024-2026), which strengthened my discipline, analytical thinking, and resilience.
 * Passionate about cloud engineering, system optimization, and continuous learning.
 
 ---
